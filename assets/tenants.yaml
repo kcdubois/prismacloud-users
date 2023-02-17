@@ -1,0 +1,4 @@
+- access_key: ''
+  name: ''
+  prisma_cloud_api: https://api.ca.prismacloud.io
+  secret_key: ''

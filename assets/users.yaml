@@ -1,0 +1,4 @@
+- email: jdoe@example.com
+  enabled: true
+  firstName: John
+  lastName: Doe
